@@ -11,6 +11,10 @@ package utspbo;
  */
 public class MahasiswaAksi {
     public static void main(String[] args) {
-          Mahasiswa Beni = new Mahasiswa();  
+          Mahasiswa Beni = new Mahasiswa();
+          
+          Beni.Nama = "Beni Permadani";
+          Beni.NPM = " 2010020029";
+          Beni.IPK = 3.5;
     }
 }
