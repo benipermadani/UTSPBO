@@ -16,5 +16,7 @@ public class MahasiswaAksi {
           Beni.Nama = "Beni Permadani";
           Beni.NPM = " 2010020029";
           Beni.IPK = 3.5;
+          
+          Beni.cetakInfo();
     }
 }
