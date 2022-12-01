@@ -10,5 +10,7 @@ package utspbo;
  * @author benipermadani
  */
 public class MahasiswaAksi {
-    
+    public static void main(String[] args) {
+          Mahasiswa Beni = new Mahasiswa();  
+    }
 }
